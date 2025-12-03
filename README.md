@@ -47,6 +47,7 @@ Esto iniciará el servidor con Nodemon, que reiniciará automáticamente la apli
 ## Modo de Producción
 
 Para ejecutar el servidor en modo de producción, utiliza:
+previemente instalado : npm install nodemon --save-dev
 
 ```
 npm start
